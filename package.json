@@ -5,13 +5,12 @@
   "scripts": {
     "start": "node ./bin/www"
   },
-/* actual versions node=v6.6.0 npm=v3.10.9 */
 
   "engines":{
     "node": "~4.2.1",
     "npm": "~2.2.1"
   },
-  
+
   "dependencies": {
     "body-parser": "~1.15.1",
     "cookie-parser": "~1.4.3",
