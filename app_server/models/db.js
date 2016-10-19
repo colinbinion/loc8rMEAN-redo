@@ -44,3 +44,6 @@ process.on('SIGTERM', function() {
         process.exit(0);
     });
 });
+
+// BRING IN  SCHEMAS & MODELS
+require('./locations');
